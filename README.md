@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamyadav1304
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT, XML, coz collage 
+- 🌱 I’m currently learning React & Java Script 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on IG 
 - 😄 Pronouns: Nothing
